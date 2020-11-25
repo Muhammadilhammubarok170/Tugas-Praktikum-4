@@ -13,3 +13,9 @@
 INPUT
 
 ![screen 1](/gambar/screen1.png)
+
+
+
+OUTPUT
+
+![screen 2](/gambar/screen2.png)
